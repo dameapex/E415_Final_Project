@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Cartoon_City/Asphalt_Dark_Gray.uasset",
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Cartoon_City/Billboard.uasset",
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Cartoon_City/Car_Color.uasset",
@@ -840,6 +841,43 @@
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Assets/FPS_Map/WoodPlank_01.uasset",
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Assets/FPS_Map/WoodPlank_02.uasset",
 				"E:/ECE_415/Final_Project/Project/E415_Final_Project/Content/Assets/FPS_Map/WoodPlank_03.uasset"
+=======
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/Ch09_1001_Diffuse.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/Ch09_1001_Glossiness.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/Ch09_1001_Normal.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/Ch09_1001_Specular.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/Ch09_body.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1_Anim.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1_PhysicsAsset.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1_Skeleton.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1running.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/CJP.umap",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Ch09_1001_Diffuse.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Ch09_1001_Glossiness.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Ch09_1001_Normal.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Ch09_1001_Specular.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Ch09_body.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Running.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Running_Anim.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/PLayer1run/Running_PhysicsAsset.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/BS_Player_Locomotion.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/IDE/Standing_Idle.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/runwithgun1.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/runwithgun1/Pistol_Run.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Ch09_1001_Diffuse.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Ch09_1001_Glossiness.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Ch09_1001_Normal.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Ch09_1001_Specular.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Ch09_body.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Running.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Running_Anim.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Running_PhysicsAsset.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/Characters/Mannequins/Anims/Running/Running_Skeleton.uasset",
+				"C:/Users/lecoo/Desktop/Final/E415_Final_Project/Content/ThirdPerson/Blueprints/player1_Skeleton_BlendSpace1D.uasset"
+>>>>>>> aa76411 (animation)
 			]
 		}
 	]
